@@ -1,0 +1,36 @@
+9. Taste, Smell, and Touch Response and Use
+1. Normal use of, and response to, taste, smell, and touch.
+2. Mildly abnormal use of, and response to, taste, smell and touch.
+3. Moderately abnormal use of, and response to, taste, smell, and touch.
+4. Severely abnormal use of, and response to, taste, smell, and touch.
+10. Fear or Nervousness.
+1. Normal fear or nervousness.
+2. Mildly abnormal fear or nervousness.
+3. Moderately abnormal fear or nervousness.
+4. Severely abnormal fear or nervousness.
+11. Verbal Communication.
+1. Normal verbal communication, age and situation appropriate.
+2. Mildly abnormal verbal communication.
+3. Moderately abnormal verbal communication.
+4. Severely abnormal verbal communication.
+12. Nonverbal Communication
+1. Normal use of nonverbal communication, age and situation appropriate.
+2. Mildly abnormal use of nonverbal communication.
+3. Moderately abnormal use of nonverbal communication.
+4. Severely abnormal use of nonverbal communication.
+13. Activity level.
+1. Normal activity level for age and circumstances.
+2. Mildly abnormal activity level.
+3. Moderately abnormal activity level.
+4. Severely abnormal activity level.
+14. Level and Consistency of intellectual response.
+1. Intelligence is normal and reasonably consistent across various areas.
+2. Mildly abnormal intellectual functioning.
+3. Moderately abnormal intellectual functioning.
+4. Severely abnormal intellectual functioning.
+15. General impressions.
+1. No autism spectrum disorder.
+2. Mild autism spectrum disorder.
+3. Moderate autism spectrum disorder.
+4. Severe autism disorder.
+
